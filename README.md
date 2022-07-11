@@ -8,7 +8,7 @@ Go check out my ~~admittedly nonexistent~~ projects if you want to waste your ti
 You will probably not find anything interesting, they are mostly in private repos.
 
 ## :writing_hand: Projects
-* [um7-arduino][repo-um7-arduino], a library for Redshift Labs' UM7 orientation sensor for Arduino-compatible platforms
+* [um7-arduino][repo-um7-arduino], a driver for Redshift Labs' UM7 orientation sensor for Arduino-compatible platforms
 * more to come? maybe?
 
 [repo-um7-arduino]: https://github.com/xcb-xwii/um7-arduino
